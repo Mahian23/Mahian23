@@ -9,7 +9,7 @@ Grinding through the Harvard CS50 series!
 - [x] Chapter 2: C Fundamentals
 - [x] Chapter 3: Formatted Input/Output
 - [x] Chapter 4: Expressions
-- [ ] Chapter 5: Selection Statements
+- [x] Chapter 5: Selection Statements
 
 ### 🎓 CS50 Progress
 - [x] CS50x: Introduction to Computer Science
